@@ -65,7 +65,9 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "c.fiedler@tilburguniversity.edu"
   address = "Tilburg University, Department of Economics, Room P2.146, P.O. Box 90153, 5000 LE Tilburg, The Netherlands"
+  phone = ""
   skype = "clemens.fiedler"
+  telegram = "" 
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
