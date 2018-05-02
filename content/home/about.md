@@ -10,33 +10,41 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Competition",
+    "Software Markets",
+    "Industrial Organization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD Candidate in Economics"
+  institution = "Tilburg University"
+  year = 2015 - Present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc (Research Master) in Economics"
+  institution = "Tilburg University"
+  year = 2013 - 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MSc in Economics"
+  institution = "Vienna University of Business and Economics"
+  year = 2011 - 2013
+
+[[education.courses]]
+  course = "BSc in Business, Economics and Social Sciences"
+  institution = "Vienna University of Business and Economics"
+  year = 2006 - 2011
 
 +++
 
 # Biography
 
-Under Construction
+I am a PhD Student at Tilburg University in the Netherlands and affiliated with CentER and TILEC. My field is Applied Industrial Organization Theory.
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research focus is the connection of asymmetry with competition intensity. When can an increase in asymmetry lead to an escalation of competition? How does this impact the decision making of third parties? I use a game theoretical approach to determine how models used in industrial organizations change once we allow for asymmetry of agents.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My supervisors are Jan Boone & Florian Schütt.
+
+My university website can be found [https://www.tilburguniversity.edu/webwijs/show/c.fiedler_nl.html](here).
+My GitHub Site can be found here [https://github.com/clemensfiedler](here).
