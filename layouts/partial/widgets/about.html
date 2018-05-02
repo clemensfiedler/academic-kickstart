@@ -76,8 +76,9 @@
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="course">{{ .course }}</p>
               <p class="institution">{{ .institution }}</p>
+              <p class="institution">{{ .year }}</p>
             </div>
           </li>
           {{ end }}

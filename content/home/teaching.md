@@ -17,12 +17,12 @@ weight = 60
 
 ## Tilburg University
 
-Programming for Economists, TA 2017 - 2018
-Competition and Regulation for Economists, TA 2016 - 2018
-Introduction to LaTeX, Lecturer & Organizer 2014 - 2016
+- Programming for Economists, TA 2017 - 2018
+- Competition and Regulation for Economists, TA 2016 - 2018
+- Introduction to LaTeX, Lecturer & Organizer 2014 - 2016
 
 ## Vienna University of Business and Economics
 
-Game Theory, TA 2012 & 2013
-Managerial Economics, TA 2013
-Adv. Microeconomics, TA 2013
+- Game Theory, TA 2012 & 2013
+- Managerial Economics, TA 2013
+- Adv. Microeconomics, TA 2013
