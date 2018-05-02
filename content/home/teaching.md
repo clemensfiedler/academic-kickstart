@@ -15,9 +15,10 @@ weight = 60
 
 ## Tilburg University
 
-Programming for Economists, TA 2017
-Competition and Regulation for Economists, TA 2016, 2017
+Programming for Economists, TA 2017 - 2018
+Competition and Regulation for Economists, TA 2016 - 2018
 Introduction to LaTeX, Lecturer & Organizer 2014 - 2016
+Programming Group, Organizer 2017 - 2018
 
 ## Vienna University of Business and Economics
 

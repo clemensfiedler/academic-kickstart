@@ -15,26 +15,26 @@ weight = 5
     "Industrial Organization"
   ]
 
-# List your qualifications (such as academic degrees).
+# Curriculum Vitae
 [[education.courses]]
   course = "PhD Candidate in Economics"
   institution = "Tilburg University"
-  year = 2015 - Present
+  year = "2015 - Present"
 
 [[education.courses]]
   course = "MSc (Research Master) in Economics"
   institution = "Tilburg University"
-  year = 2013 - 2015
+  year = "2013 - 2015"
 
 [[education.courses]]
   course = "MSc in Economics"
   institution = "Vienna University of Business and Economics"
-  year = 2011 - 2013
+  year = "2011 - 2013"
 
 [[education.courses]]
   course = "BSc in Business, Economics and Social Sciences"
   institution = "Vienna University of Business and Economics"
-  year = 2006 - 2011
+  year = "2006 - 2011"
 
 +++
 
