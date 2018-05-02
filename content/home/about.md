@@ -18,22 +18,22 @@ weight = 5
 # Curriculum Vitae
 [[education.courses]]
   course = "PhD Candidate in Economics"
-  institution = "Tilburg University (2015 - Present)"
+  institution = "Tilburg University\n(2015 - Present)"
   year = ""
 
 [[education.courses]]
   course = "MSc (Research Master) in Economics"
-  institution = "Tilburg University (2013 - 2015)"
+  institution = "Tilburg University\n(2013 - 2015)"
   year = ""
 
 [[education.courses]]
   course = "MSc in Economics"
-  institution = "Vienna University of Business and Economics (2011 - 2013)"
+  institution = "Vienna University of Business and Economics\n(2011 - 2013)"
   year = ""
 
 [[education.courses]]
   course = "BSc in Business, Economics and Social Sciences"
-  institution = "Vienna University of Business and Economics (2006 - 2011)"
+  institution = "Vienna University of Business and Economics\n(2006 - 2011)"
   year = ""
 
 +++
@@ -46,6 +46,6 @@ My research focus is the connection of asymmetry with competition intensity. Whe
 
 My supervisors are Jan Boone & Florian Schütt.
 
-My university website can be found [here](https://www.tilburguniversity.edu/webwijs/show/c.fiedler_nl.html).
+My university website can be found [here](https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm).
 
 My GitHub Site can be found here [here](https://github.com/clemensfiedler).
