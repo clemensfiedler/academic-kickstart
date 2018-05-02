@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -36,3 +36,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+test
