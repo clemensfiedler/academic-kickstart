@@ -18,23 +18,23 @@ weight = 5
 # Curriculum Vitae
 [[education.courses]]
   course = "PhD Candidate in Economics"
-  institution = "Tilburg University"
-  year = "2015 - Present"
+  institution = "Tilburg University (2015 - Present)"
+  year = ""
 
 [[education.courses]]
   course = "MSc (Research Master) in Economics"
-  institution = "Tilburg University"
-  year = "2013 - 2015"
+  institution = "Tilburg University (2013 - 2015)"
+  year = ""
 
 [[education.courses]]
   course = "MSc in Economics"
-  institution = "Vienna University of Business and Economics"
-  year = "2011 - 2013"
+  institution = "Vienna University of Business and Economics (2011 - 2013)"
+  year = ""
 
 [[education.courses]]
   course = "BSc in Business, Economics and Social Sciences"
-  institution = "Vienna University of Business and Economics"
-  year = "2006 - 2011"
+  institution = "Vienna University of Business and Economics (2006 - 2011)"
+  year = ""
 
 +++
 
