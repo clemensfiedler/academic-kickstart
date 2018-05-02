@@ -1,6 +1,6 @@
 +++
 # Custom widget.
-widget = "custom"
+widget = "posts"
 active = true
 date = 2018-05-20T00:00:00
 
