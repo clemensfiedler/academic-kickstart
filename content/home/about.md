@@ -47,4 +47,5 @@ My research focus is the connection of asymmetry with competition intensity. Whe
 My supervisors are Jan Boone & Florian Schütt.
 
 My university website can be found [https://www.tilburguniversity.edu/webwijs/show/c.fiedler_nl.html](here).
+
 My GitHub Site can be found here [https://github.com/clemensfiedler](here).
