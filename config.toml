@@ -64,8 +64,7 @@ enableGitInfo = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "c.fiedler@tilburguniversity.edu"
-  address = "Tilburg University, Department of Economics, Room P2.146, P.O. Box 90153, 5000 LE Tilburg, The Netherlands"
-  skype = "clemens.fiedler"
+  address = "Tilburg University\n Department of Economics\n Room P2.146\n P.O. Box 90153\n 5000 LE Tilburg\n The Netherlands"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -230,6 +229,12 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/clemensfiedler"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/clemens-fiedler-2b5053149/"
+
 
 
 # Navigation Links
