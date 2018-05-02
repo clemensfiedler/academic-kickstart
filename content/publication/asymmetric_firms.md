@@ -2,7 +2,7 @@
 title = "Should we Intervene in the Demand of Firms in the Software Market?"
 
 # Date first published.
-date = "2013-07-01"
+# date = "2013-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Clemens Fiedler"]
