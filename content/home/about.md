@@ -15,6 +15,10 @@ weight = 5
     "Industrial Organization"
   ]
 
+[[files.file]]
+  title = "Curriculum Vitae"
+  link = "\files\CurriculumVitae.pdf"
+
 # Curriculum Vitae
 [[education.courses]]
   course = "PhD Candidate in Economics"
