@@ -15,7 +15,7 @@ weight = 5
     "Industrial Organization"
   ]
 
-[[files.file]]
+[[CV]]
   title = "Curriculum Vitae"
   link = "/files/CurriculumVitae.pdf"
 

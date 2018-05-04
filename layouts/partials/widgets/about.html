@@ -68,19 +68,6 @@
       </div>
       {{ end }}
 
-      {{ with $page.Params.files}}
-      <div class="col-sm-5">
-        <h3>{{ i18n "files" | markdownify }}</h3>
-        {{ range .file }}
-        <ul class="ul-interests">
-          <div class="description">
-            <a href={{ .link }}>{{.title}}</a>
-          </div>
-        </ul>
-        {{ end }}
-      </div>
-      {{ end }}
-
       {{ with $page.Params.education }}
       <div class="col-sm-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
@@ -95,6 +82,10 @@
             </div>
           </li>
           {{ end }}
+          <li>
+            See my full <a href={{CV.link }}>{{CV.title}}</a> for more information.
+          </li>
+
         </ul>
       </div>
       {{ end }}
