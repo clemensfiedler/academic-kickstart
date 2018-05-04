@@ -13,11 +13,9 @@ weight = 5
     "Competition",
     "Software Markets",
     "Industrial Organization"
+    "Computational Economics"
+    "Numerical Simulations"
   ]
-
-[[CV]]
-  title = "Curriculum Vitae"
-  link = "/files/CurriculumVitae.pdf"
 
 # Curriculum Vitae
 [[education.courses]]
@@ -52,4 +50,6 @@ My supervisors are Jan Boone & Florian Schütt.
 
 My university website can be found [here](https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm).
 
-My GitHub Site can be found here [here](https://github.com/clemensfiedler).
+My GitHub Site can be found [here](https://github.com/clemensfiedler).
+
+My full CV can be found here [here](/files/CurriculumVitae.pdf)
