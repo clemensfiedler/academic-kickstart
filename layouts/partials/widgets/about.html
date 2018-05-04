@@ -71,7 +71,7 @@
       {{ with $page.Params.files}}
       <div class="col-sm-5">
         <h3>{{ i18n "files" | markdownify }}</h3>
-        {{ range .courses }}
+        {{ range .file }}
         <ul class="ul-interests">
           <div class="description">
             <a href={{ .link }}>{{.title}}</a>
