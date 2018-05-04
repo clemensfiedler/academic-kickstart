@@ -5,18 +5,6 @@
   {{ else if .Params.header.image }}
     {{ .Scratch.Set "image" .Params.header.image }}
   {{ end }}
-  {{ if .Scratch.Get "image" }}
-  <div>
-    <a href="{{ .Permalink }}">
-      {{ $img_src := urls.Parse (.Scratch.Get "image") }}
-      {{ if $img_src.Scheme }}
-        <img src="{{ .Scratch.Get "image" }}" class="article-banner" itemprop="image">
-      {{ else }}
-        <img src="{{ "/img/" | relURL }}{{ .Scratch.Get "image" }}" class="article-banner" itemprop="image">
-      {{ end }}
-    </a>
-  </div>
-  {{ end }}
 
   <h3 class="article-title" itemprop="name">
     <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
