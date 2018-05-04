@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Competition",
     "Software Markets",
-    "Industrial Organization"
-    "Computational Economics"
+    "Industrial Organization",
+    "Computational Economics",
     "Numerical Simulations"
   ]
 
