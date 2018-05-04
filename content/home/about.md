@@ -17,7 +17,7 @@ weight = 5
 
 [[files.file]]
   title = "Curriculum Vitae"
-  link = "\files\CurriculumVitae.pdf"
+  link = "/files/CurriculumVitae.pdf"
 
 # Curriculum Vitae
 [[education.courses]]
