@@ -40,16 +40,14 @@ weight = 5
 
 +++
 
-# Biography
+# About Me
 
 I am a PhD Student at Tilburg University in the Netherlands and affiliated with CentER and TILEC. My field is Applied Industrial Organization Theory.
 
 My research focus is the connection of asymmetry with competition intensity. When can an increase in asymmetry lead to an escalation of competition? How does this impact the decision making of third parties? I use a game theoretical approach to determine how models used in industrial organizations change once we allow for asymmetry of agents.
 
-My supervisors are Jan Boone & Florian Schütt.
+My supervisors are [Jan Boone](http://janboone.github.io/homepage/) & [Florian Schütt](https://sites.google.com/site/schuettflorian/).
 
 My university website can be found [here](https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm).
-
-My GitHub Site can be found [here](https://github.com/clemensfiedler).
 
 My full CV can be found here [here](/files/CurriculumVitae.pdf)

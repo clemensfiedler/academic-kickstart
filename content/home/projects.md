@@ -42,3 +42,4 @@ filter_default = 0
 
 +++
 
+Most of  my programming projects can be found on [GitHub](https://github.com/clemensfiedler).
