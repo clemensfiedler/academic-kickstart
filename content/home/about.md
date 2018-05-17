@@ -41,10 +41,9 @@ weight = 5
 +++
 
 # About Me
+I'm an ever-curious, driven & hard-working person and enjoy seeking and overcoming the puzzles that everyday life presents me with.
 
-I am a PhD Student at Tilburg University in the Netherlands and affiliated with CentER and TILEC. My field is Applied Industrial Organization Theory.
-
-My research focus is the connection of asymmetry with competition intensity. When can an increase in asymmetry lead to an escalation of competition? How does this impact the decision making of third parties? I use a game theoretical approach to determine how models used in industrial organizations change once we allow for asymmetry of agents.
+Professionally, I'm a Ph.D. Student in Economics at Tilburg University specializing in the competition and innovation in software and other high-tech markets. The goal of my research is to understand what drives firms to innovate. How can we increase firms' incentives to do so? How is this different in modern software markets with interconnectet products and asymmetric firms?
 
 My supervisors are [Jan Boone](http://janboone.github.io/homepage/) & [Florian Schütt](https://sites.google.com/site/schuettflorian/).
 
