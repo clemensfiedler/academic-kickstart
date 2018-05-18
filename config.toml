@@ -224,7 +224,6 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "mailto:c.fiedler@tilburguniversity.edu"
 
-
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
@@ -234,6 +233,11 @@ enableGitInfo = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/clemens-fiedler-2b5053149/"
+
+  [[params.social]]
+    icon = "university"
+    icon_pack = "fa"
+    link = "https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm"
 
 
 
@@ -279,6 +283,11 @@ enableGitInfo = false
   name = "Personal"
   url = "#personal"
   weight = 11
+
+[[menu.main]]
+  name = "Extracurricular"
+  url = "#extracurricular"
+  weight = 9
 
 # Taxonomies.
 [taxonomies]

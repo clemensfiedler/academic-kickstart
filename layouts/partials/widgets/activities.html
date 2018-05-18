@@ -10,12 +10,31 @@
   <div class="col-xs-12 col-md-8">
     {{ $page.Content }}
   </div>
-
+<!-- Misc Activities -->
   {{ with $page.Params.activity}}
   <div class="col-sm-7">
     <h3>{{ i18n "activity" | markdownify }}</h3>
     <ul class="ul-edu fa-ul">
-      {{ range .position }}
+      {{ range .activity }}
+      <li>
+        <i class="fa-li fa fa-plus"></i>
+        <div class="description">
+          <p class="course">{{ .position }}</p>
+          <p class="year">{{ .year }}</p>
+          <p class="institution">{{ .institution }}</p>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+<!-- Teaching -->
+  {{ with $page.Params.activity}}
+  <div class="col-sm-7">
+    <h3>{{ i18n "activity" | markdownify }}</h3>
+    <ul class="ul-edu fa-ul">
+      {{ range .teaching }}
       <li>
         <i class="fa-li fa fa-plus"></i>
         <div class="description">
