@@ -272,7 +272,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 12
 
 [[menu.main]]
   name = "CV"
