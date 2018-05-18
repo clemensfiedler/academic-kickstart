@@ -275,6 +275,11 @@ enableGitInfo = false
   url = "/files/CurriculumVitae.pdf"
   weight = 10
 
+[[menu.main]]
+  name = "Personal"
+  url = "#personal"
+  weight = 11
+
 # Taxonomies.
 [taxonomies]
   tag = "tags"

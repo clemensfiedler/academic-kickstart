@@ -19,6 +19,7 @@ weight = 60
 
 - Programming for Economists, TA 2017 - 2018
 - Competition and Regulation for Economists, TA 2016 - 2018
+- Supervising Bachelor Theses, 2016 - 2018
 - Introduction to LaTeX, Lecturer & Organizer 2014 - 2016
 
 ## Vienna University of Business and Economics
