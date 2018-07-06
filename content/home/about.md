@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-05-02T00:00:00
+date = 2018-07-06T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -41,9 +41,9 @@ weight = 5
 +++
 
 # About Me
-I'm an ever-curious, driven & hard-working person and enjoy seeking and overcoming the puzzles that everyday life presents me with.
+I'm an ever-curious, driven & hard-working person and enjoy seeking and overcoming the puzzles in my professional, academic and personal life.
 
-Professionally, I'm a Ph.D. Student in Economics at Tilburg University specializing in the competition and innovation in software and other high-tech markets. The goal of my research is to understand what drives firms to innovate. How can we increase firms' incentives to do so? How is this different in modern software markets with interconnectet products and asymmetric firms?
+Professionally, I'm a Ph.D. Student in Economics at Tilburg University specializing in competition and innovation in software and other high-tech markets. The goal of my research is to understand what drives firms to innovate and how their behavior is impacted by the unique characteristics of these modern market. Doing so will give us a new perspective on how to increase firms' incentives to invest in R\&D and provide high-quality products. Within my research I make heavy use of analytical and numerical procedures including market simulation and webscraping.
 
 My supervisors are [Jan Boone](http://janboone.github.io/homepage/) & [Florian Schütt](https://sites.google.com/site/schuettflorian/).
 

@@ -31,7 +31,7 @@ filter_default = 0
 # [[filter]]
 #   name = "All"
 #   tag = "*"
-#  
+#
 # [[filter]]
 #   name = "Deep Learning"
 #   tag = ".deep-learning"
@@ -43,3 +43,5 @@ filter_default = 0
 +++
 
 Most of  my programming projects can be found on [GitHub](https://github.com/clemensfiedler).
+
+If you are insterested in joining the **TiSEM Programming Group** please send an email to [c.fiedler@uvt.nl](c.fiedler@uvt.nl).
