@@ -10,6 +10,13 @@
     {{ .Title }}
   </h3>
 
+  <div class="pub-authors" itemprop="author">
+    {{ with .Params.authors }}
+    {{ delimit . ", " | markdownify }}
+    {{ end }}
+  </div>
+
+  <button id="{{ .Title }}_button" data-text-swap="Hide Abstract" data-toggle="collapse" type="button" class="btn btn-info" style="color: rgb(255,255,255); background-color: #3696EE; width:130px" data-target="#{{ .Title }}_abstract">View Abstract</button>
 
   <div id="{{ .Title }}_abstract" style="font-size: 18px;" class="collapse">
     <div class="pub-abstract" itemprop="text">
@@ -19,21 +26,6 @@
       {{ .Params.abstract | markdownify}}
       {{ end }}
     </div>
-  </div>
-
-  <div class="pub-authors" itemprop="author">
-    {{ with .Params.authors }}
-    {{ delimit . ", " | markdownify }}
-    {{ end }}
-  </div>
-
-  <div class="pub-publication">
-    {{ if .Params.publication_short }}
-    {{ .Params.publication_short | markdownify }},
-    {{ else if .Params.publication }}
-    {{ .Params.publication | markdownify }},
-    {{ end }}
-    {{ .Date.Format "2006" }}
   </div>
 
   <div class="pub-links">
