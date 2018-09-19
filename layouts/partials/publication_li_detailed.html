@@ -7,15 +7,18 @@
   {{ end }}
 
   <h3 class="article-title" itemprop="name">
-    <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
+    {{ .Title }}
   </h3>
 
-  <div class="pub-abstract" itemprop="text">
-    {{ if .Params.abstract_short }}
-    {{ .Params.abstract_short | markdownify }}
-    {{ else }}
-    {{ .Params.abstract | markdownify}}
-    {{ end }}
+
+  <div id="{{ .Title }}_abstract" style="font-size: 18px;" class="collapse">
+    <div class="pub-abstract" itemprop="text">
+      {{ if .Params.abstract_short }}
+      {{ .Params.abstract_short | markdownify }}
+      {{ else }}
+      {{ .Params.abstract | markdownify}}
+      {{ end }}
+    </div>
   </div>
 
   <div class="pub-authors" itemprop="author">

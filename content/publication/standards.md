@@ -1,5 +1,5 @@
 +++
-title = "Standards and the Common Good: <br> How Competition Fosters Cooperation?"
+title = "Standards and the Common Good: How Competition Fosters Cooperation?"
 
 date = "2018-05-01"
 
