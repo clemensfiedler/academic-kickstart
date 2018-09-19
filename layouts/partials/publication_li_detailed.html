@@ -16,16 +16,16 @@
     {{ end }}
   </div>
 
-  <button id="ButtonOne" data-text-swap="Hide Abstract" data-toggle="collapse" type="button" class="btn btn-info" style="color: rgb(255,255,255); background-color: #3696EE; width:130px" data-target="#{{ .Title }}_abstract">View Abstract</button>
+  <div class="button_holder">
 
-  <div id="{{ .Title }}_abstract" style="font-size: 18px;" class="collapse">
-    <div class="pub-abstract" itemprop="text">
-      {{ if .Params.abstract_short }}
-      {{ .Params.abstract_short | markdownify }}
-      {{ else }}
-      {{ .Params.abstract | markdownify}}
-      {{ end }}
-    </div>
+  </div>
+
+  <div class="pub-abstract" itemprop="text" style="display: none;">
+    {{ if .Params.abstract_short }}
+    {{ .Params.abstract_short | markdownify }}
+    {{ else }}
+    {{ .Params.abstract | markdownify}}
+    {{ end }}
   </div>
 
   <div class="pub-links">
