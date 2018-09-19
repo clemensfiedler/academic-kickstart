@@ -12,3 +12,5 @@
       $(this).html('Hide abstract');
     }
   })
+
+})(jQuery);
