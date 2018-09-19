@@ -5,5 +5,12 @@ ul.ul-edu li .description p.year {
 
 .pub-list-item .pub-authors {
   font-size: 1.2rem;
+  font-variant: small-caps;
+  margin-bottom: 10px;
   color: #000000;
+}
+
+.pub-list-item .pub-abstract {
+  font-size: 0.9rem;
+  text-align: justify;
 }
