@@ -1,37 +1,39 @@
 <div class="pub-list-item card-simple" itemscope itemtype="http://schema.org/CreativeWork">
 
-  {{ if .Params.image_preview }}
-    {{ .Scratch.Set "image" .Params.image_preview }}
-  {{ else if .Params.header.image }}
-    {{ .Scratch.Set "image" .Params.header.image }}
-  {{ end }}
+  <div class="row">
 
-  <h3 class="article-title" itemprop="name">
-    {{ .Title }}
-  </h3>
-
-  <div class="pub-authors" itemprop="author">
-    {{ with .Params.authors }}
-    {{ delimit . ", " | markdownify }}
+    {{ if .Params.image_preview }}
+      {{ .Scratch.Set "image" .Params.image_preview }}
+    {{ else if .Params.header.image }}
+      {{ .Scratch.Set "image" .Params.header.image }}
     {{ end }}
-  </div>
 
-  <div class="button_holder">
-    <button class="btn btn-primary showAbstract">
-              View abstract
-    </button>
-  </div>
+    <h3 class="article-title" itemprop="name">
+      {{ .Title }}
+    </h3>
 
-  <div class="pub-abstract" itemprop="text" style="display: none;">
-    {{ if .Params.abstract_short }}
-    {{ .Params.abstract_short | markdownify }}
-    {{ else }}
-    {{ .Params.abstract | markdownify}}
-    {{ end }}
-  </div>
+    <div class="pub-authors" itemprop="author">
+      {{ with .Params.authors }}
+      {{ delimit . ", " | markdownify }}
+      {{ end }}
+    </div>
 
-  <div class="pub-links">
-    {{ partial "publication_links" (dict "content" . "is_list" 1) }}
-  </div>
+    <div class="button_holder">
+      <button class="btn btn-primary showAbstract">
+                View abstract
+      </button>
+    </div>
 
+    <div class="pub-abstract" itemprop="text" style="display: none;">
+      {{ if .Params.abstract_short }}
+      {{ .Params.abstract_short | markdownify }}
+      {{ else }}
+      {{ .Params.abstract | markdownify}}
+      {{ end }}
+    </div>
+
+    <div class="pub-links">
+      {{ partial "publication_links" (dict "content" . "is_list" 1) }}
+    </div>
+  </div>
 </div>
