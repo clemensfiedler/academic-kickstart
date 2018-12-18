@@ -14,7 +14,8 @@ weight = 5
     "Software Markets",
     "Industrial Organization",
     "Computational Economics",
-    "Numerical Simulations"
+    "Numerical Simulations",
+    "Data Analysis"
   ]
 
 # Curriculum Vitae
@@ -45,6 +46,6 @@ I’m an ever-curious, driven & hard-working person and enjoy seeking and overco
 
 Currently, I’m a Ph.D. Candidate in Economics at [Tilburg University](https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm) specializing in competition and innovation in software and other high-tech markets. The goal of my research is to understand what drives firms to innovate and how their behavior is impacted by the unique characteristics of these modern markets. My research provides us with a new perspective on how to increase firms’ incentives to invest in R&D and provide high-quality products. Within my research I make heavy use of analytical and numerical procedures including market simulation and webscraping.
 
-My supervisors are [Jan Boone](http://janboone.github.io/homepage/) & [Florian Schütt](https://sites.google.com/site/schuettflorian/).
+My supervisors are [Prof. Jan Boone](http://janboone.github.io/homepage/) & [Dr. Florian Schütt](https://sites.google.com/site/schuettflorian/).
 
 My full CV can be found here [here](/files/CurriculumVitae.pdf)

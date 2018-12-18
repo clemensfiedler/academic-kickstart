@@ -35,5 +35,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
-# Should we Intervene in the Demand of Firms in the Software Market?

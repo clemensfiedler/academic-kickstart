@@ -11,9 +11,9 @@ subtitle = ""
 weight = 60
 
 [[activity.teaching]]
-  position = "Programming for Economists (TA)"
+  position = "Seminar Competition Policy (TA & Lecturer)"
   institution = "Tilburg University"
-  year = "(2017 - Present)"
+  year = "(2019 - Present)"
 
 [[activity.teaching]]
   position = "Competition and Regulation for Economists (TA)"
@@ -24,6 +24,11 @@ weight = 60
   position = "Supervising Bachelor Theses"
   institution = "Tilburg University"
   year = "(2016 - Present)"
+
+[[activity.teaching]]
+  position = "Programming for Economists (TA)"
+  institution = "Tilburg University"
+  year = "(2017 & 2018)"
 
 [[activity.teaching]]
   position = "Introduction to LaTeX, Lecturer & Organizer"

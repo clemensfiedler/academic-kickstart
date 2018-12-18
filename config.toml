@@ -239,6 +239,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm"
 
+  [[params.social]]
+    icon = "twiter"
+    icon_pack = "fa"
+    link = "https://twitter.com/ClemensFiedler"
 
 
 # Navigation Links
