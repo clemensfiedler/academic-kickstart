@@ -1,8 +1,8 @@
 # Personal Website
 
-Layout: Academic Kickstart with Hugo
-Site: clemensfiedler.com
-Host: netlify
+ - Layout: Academic Kickstart with Hugo
+ - Site: clemensfiedler.com
+ - Host: netlify
 
 # Academic Kickstart
 
