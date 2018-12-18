@@ -240,7 +240,7 @@ enableGitInfo = false
     link = "https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm"
 
   [[params.social]]
-    icon = "twiter"
+    icon = "twitter"
     icon_pack = "fa"
     link = "https://twitter.com/ClemensFiedler"
 
