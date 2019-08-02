@@ -1,5 +1,7 @@
 # Personal Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b8288205-c343-49fb-9220-f8044042ac74/deploy-status)](https://app.netlify.com/sites/stoic-curie-7da336/deploys)
+
  - Layout: Academic Kickstart with Hugo
  - Site: clemensfiedler.com
  - Host: netlify
