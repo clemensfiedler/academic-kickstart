@@ -42,8 +42,4 @@ filter_default = 0
 
 +++
 
-Most of  my programming projects can be found on [GitHub](https://github.com/clemensfiedler).
-
-My solution to fivethirtyeight's The Riddler can be found [here](https://github.com/clemensfiedler/the-riddler).
-
-If you are insterested in joining the **TiSEM Programming Group** please send an email to [c.fiedler@uvt.nl](c.fiedler@uvt.nl).
+Most of  my programming projects can be found on [GitHub](https://github.com/clemensfiedler).\

@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Clemens Fiedler"
-  role = "PhD Candidate Economics"
+  role = "Researcher in Financial Markets and Data Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,8 +63,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "c.fiedler@tilburguniversity.edu"
-  address = "Tilburg University\n Department of Economics\n Room P2.146\n P.O. Box 90153\n 5000 LE Tilburg\n The Netherlands"
+  # email = "c.fiedler@tilburguniversity.edu"
+  address = "Centraal Planbureau\nBezuidenhoutseweg 30\n2594 AV\nDen Haag"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -222,7 +222,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:c.fiedler@tilburguniversity.edu"
+    link = "mailto:c.fiedler@cpb.nl"
 
   [[params.social]]
     icon = "github"
@@ -233,6 +233,11 @@ enableGitInfo = false
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/clemens-fiedler-2b5053149/"
+
+  [[params.social]]
+    icon = "briefcase"
+    icon_pack = "fa"
+    link = "https://www.cpb.nl/medewerkers/clemens-fiedler"
 
   [[params.social]]
     icon = "university"

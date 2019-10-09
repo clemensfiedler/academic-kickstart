@@ -11,18 +11,17 @@ weight = 5
 [interests]
   interests = [
     "Competition",
-    "Software Markets",
+    "Financial Markets",
     "Industrial Organization",
-    "Computational Economics",
-    "Numerical Simulations",
-    "Data Analysis"
+    "Data Analysis",
+    "Numerical Simulations"
   ]
 
 # Curriculum Vitae
 [[education.courses]]
   course = "PhD Candidate in Economics"
   institution = "Tilburg University"
-  year = "(2015 - Present)"
+  year = "(2015 - 2020)"
 
 [[education.courses]]
   course = "MSc (Research Master) in Economics"
