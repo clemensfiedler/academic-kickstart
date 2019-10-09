@@ -63,7 +63,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  # email = "c.fiedler@tilburguniversity.edu"
+  email = "c.fiedler@cpb.nl"
   address = "Centraal Planbureau\nBezuidenhoutseweg 30\n2594 AV\nDen Haag"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
