@@ -18,12 +18,12 @@ weight = 60
 [[activity.teaching]]
   position = "Competition and Regulation for Economists (TA)"
   institution = "Tilburg University"
-  year = "(2016 - Present)"
+  year = "(2016 - 2019)"
 
 [[activity.teaching]]
   position = "Supervising Bachelor Theses"
   institution = "Tilburg University"
-  year = "(2016 - Present)"
+  year = "(2016 - 2019)"
 
 [[activity.teaching]]
   position = "Programming for Economists (TA)"
