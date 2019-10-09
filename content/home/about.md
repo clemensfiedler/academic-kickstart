@@ -45,4 +45,4 @@ I’m an ever-curious, driven & hard-working person and enjoy seeking and overco
 
 Currently, I’m a Researcher for the [CPB Netherlands Bureau for Economic Policy Analysis](https://www.cpb.nl) where I work within the Department for Competition and Regulation with a focus on Financial Markets and Data Science.
 
-My full CV can be found here [here](/files/CurriculumVitae.pdf)
+My full CV can be found [here](/files/CurriculumVitae.pdf).

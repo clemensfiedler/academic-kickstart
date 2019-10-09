@@ -12,12 +12,12 @@ weight = 64
 [[activity.activity]]
   position = "Board Member Tilburg PhD Platform"
   institution = "Tilburg University"
-  year = "(September 2017 - Present)"
+  year = "(September 2017 - December 2018)"
 
 [[activity.activity]]
   position = "Organizer Programming Group"
   institution = "Tilburg University"
-  year = "(September 2017 - Present)"
+  year = "(September 2017 - July 2019)"
 
 [[activity.activity]]
   position = "Council Member Faculty Council (TiSEM)"
@@ -36,4 +36,4 @@ weight = 64
 
 +++
 
-Additional to my other activities I am active within the Graduate School and TiSEM at Tilburg University:
+Additional to my other activities I was active within the Graduate School and TiSEM at Tilburg University:
