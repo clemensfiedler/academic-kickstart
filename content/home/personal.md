@@ -17,4 +17,4 @@ weight = 65
 
 I'm a curious person and try not to limit myself to one field of study. I am especially interested in physics and the natural sciences in general. I'm very interested in reading and watching Science Fiction, discussing Futurology and playing Strategy Games. And I constantly try to improve my skills by reading up on topics on programming or working on the puzzles on [Project Euler](https://projecteuler.net) or [The Riddler](https://fivethirtyeight.com/tag/the-riddler).
 
-Besides all this, I enjoy climbing, running, swimming and cycling.
+Besides all this, I enjoy running, cycling and swimming.

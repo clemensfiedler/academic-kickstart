@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD Candidate in Economics"
   institution = "Tilburg University"
-  year = "(2015 - 2020)"
+  year = "(2015 - 2019)"
 
 [[education.courses]]
   course = "MSc (Research Master) in Economics"
@@ -43,6 +43,6 @@ weight = 5
 # About Me
 I’m an ever-curious, driven & hard-working person and enjoy seeking and overcoming the puzzles in my professional and personal life.
 
-Currently, I’m a Researcher for the [CPB Netherlands Bureau for Economic Policy Analysis](https://www.cpb.nl) where I work within the Department for Competition and Regulation with a focus on Financial Markets and Data Science.
+Currently, I’m a Researcher for the [CPB Netherlands Bureau for Economic Policy Analysis](https://www.cpb.nl) where I work as a Data Scientist within the Department for Competition and Regulation and Financial Markets.
 
 My full CV can be found [here](/files/CurriculumVitae.pdf).
