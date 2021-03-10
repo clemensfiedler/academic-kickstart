@@ -11,9 +11,14 @@ subtitle = ""
 weight = 60
 
 [[activity.teaching]]
-  position = "Seminar Competition Policy (TA & Lecturer)"
+  position = "Seminar Competition Policy (Lecturer)"
   institution = "Tilburg University"
-  year = "(2019 - Present)"
+  year = "(2020 - Present)"
+
+[[activity.teaching]]
+  position = "Seminar Competition Policy (TA)"
+  institution = "Tilburg University"
+  year = "(2019)"
 
 [[activity.teaching]]
   position = "Competition and Regulation for Economists (TA)"

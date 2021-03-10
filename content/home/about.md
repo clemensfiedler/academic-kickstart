@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-07-06T00:00:00
+date = 2021-03-10T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -13,34 +13,35 @@ weight = 5
     "Competition",
     "Financial Markets",
     "Industrial Organization",
-    "Data Analysis",
-    "Numerical Simulations"
+    "Data Science",
+    "Machine Learning"
   ]
 
 # Curriculum Vitae
 [[education.courses]]
-  course = "PhD Candidate in Economics"
+  course = "Ph.D. in Economics"
   institution = "Tilburg University"
   year = "(2015 - 2019)"
 
 [[education.courses]]
-  course = "MSc (Research Master) in Economics"
+  course = "M.Sc. (Research Master) in Economics"
   institution = "Tilburg University"
   year = "(2013 - 2015)"
 
 [[education.courses]]
-  course = "MSc in Economics"
+  course = "M.Sc. in Economics"
   institution = "Vienna University of Business and Economics"
   year = "(2011 - 2013)"
 
 [[education.courses]]
-  course = "BSc in Business, Economics and Social Sciences"
+  course = "B.Sc. in Business, Economics and Social Sciences"
   institution = "Vienna University of Business and Economics"
   year = "(2006 - 2011)"
 
 +++
 
 # About Me
+
 I’m an ever-curious, driven & hard-working person and enjoy seeking and overcoming the puzzles in my professional and personal life.
 
 Currently, I’m a Researcher for the [CPB Netherlands Bureau for Economic Policy Analysis](https://www.cpb.nl) where I work as a Data Scientist within the Department for Competition and Regulation and Financial Markets.
