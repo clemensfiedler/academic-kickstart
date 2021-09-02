@@ -63,8 +63,6 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "c.fiedler@cpb.nl"
-  address = "Centraal Planbureau\nBezuidenhoutseweg 30\n2594 AV\nDen Haag"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -219,10 +217,10 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:c.fiedler@cpb.nl"
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fa"
+  #   link = "mailto:c.fiedler@cpb.nl"
 
   [[params.social]]
     icon = "github"
@@ -237,12 +235,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "briefcase"
     icon_pack = "fa"
-    link = "https://www.cpb.nl/medewerkers/clemens-fiedler"
-
-  [[params.social]]
-    icon = "university"
-    icon_pack = "fa"
-    link = "https://www.tilburguniversity.edu/webwijs/show/c.fiedler.htm"
+    link = "https://www.zalando-lounge.de/#/"
 
   [[params.social]]
     icon = "twitter"

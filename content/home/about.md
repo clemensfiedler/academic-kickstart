@@ -44,6 +44,6 @@ weight = 5
 
 I’m an ever-curious, driven & hard-working person and enjoy seeking and overcoming the puzzles in my professional and personal life.
 
-Currently, I’m a Researcher for the [CPB Netherlands Bureau for Economic Policy Analysis](https://www.cpb.nl) where I work as a Data Scientist within the Department for Competition and Regulation and Financial Markets.
+Currently, I’m an Economist | Applied Scientist at Zalando Lounge.
 
 My full CV can be found [here](/files/CurriculumVitae.pdf).
