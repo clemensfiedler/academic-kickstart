@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Competition",
-    "Financial Markets",
-    "Industrial Organization",
+    "Economics",
     "Data Science",
+    "Industrial Organization",
+    "Programming",
     "Machine Learning"
   ]
 

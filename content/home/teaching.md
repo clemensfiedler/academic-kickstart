@@ -13,7 +13,7 @@ weight = 60
 [[activity.teaching]]
   position = "Seminar Competition Policy (Lecturer)"
   institution = "Tilburg University"
-  year = "(2020 - Present)"
+  year = "(2020 - 2021)"
 
 [[activity.teaching]]
   position = "Seminar Competition Policy (TA)"
