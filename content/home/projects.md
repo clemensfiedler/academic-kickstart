@@ -42,4 +42,6 @@ filter_default = 0
 
 +++
 
-Most of  my programming projects can be found on [GitHub](https://github.com/clemensfiedler).\
+[Board Game Tools](https://clemensfiedler.github.io/board-game-tools/) A collection of useful tools to simplify routine tasks when playing board games. Currently allows to randomize the order of players and split them into groups.
+
+[History Quiz](https://clemensfiedler.github.io/history-quiz/) A quiz that asks you to put historical events into the correct order. Currently, two quizzes are supported: Ancient till Late Medieval Events and Video Games.
